@@ -253,7 +253,7 @@ GitHub Repository
 
 GitHub Repository:
 
-[PASTE YOUR GITHUB REPOSITORY LINK HERE]
+https://github.com/K162004/EduGuide-AI
 
 Project Screenshots
 
